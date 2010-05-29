@@ -1,0 +1,101 @@
+{
+   "add": {
+      "description": "This is the label for the 'Add' buttons.",
+      "message": "Add"
+   },
+   "add_a_filter_list": {
+      "message": "Subscribe to a Firefox AdBlock Plus \u003Ca href='http://adblockplus.org/en/subscriptions'\u003Efilter list\u003C/a\u003E:"
+   },
+   "add_domain_button": {
+      "message": "Add domain"
+   },
+   "add_filter_button": {
+      "message": "Add filter"
+   },
+   "add_filters_msg": {
+      "message": "Add filter(s)?"
+   },
+   "add_url_button": {
+      "message": "Add URL"
+   },
+   "add_your_own_filters": {
+      "message": "Add your own filters"
+   },
+   "apply_changes": {
+      "message": "Apply changes"
+   },
+   "block_youtube": {
+      "message": "Block ads inside YouTube videos (does not work with the FlashBlock extension)"
+   },
+   "cancel": {
+      "description": "Cancel button label",
+      "message": "Cancel"
+   },
+   "clickhide_instructions": {
+      "message": "After closing this popup, click (or right-click) an element on the page."
+   },
+   "description": {
+      "message": "Blocks ads using the Firefox AdBlock Plus filter engine. Kiss ads goodbye and browse in peace!"
+   },
+   "disable_inline": {
+      "message": "Disable inline text ads"
+   },
+   "disabled_for_these_domains": {
+      "message": "AdThwart is disabled for the domains listed below. You can add a domain either via the AdThwart icon in the address bar or by typing the domain (not a URL) in the box and clicking the \"Add domain\" button."
+   },
+   "easy_create_filter": {
+      "description": "Button label in popup balloon",
+      "message": "Easy create filter"
+   },
+   "edit_filters_raw": {
+      "message": "Edit filters as raw text"
+   },
+   "enable_only_the": {
+      "message": "Enable only the filter lists you need. Too many can make Chrome unresponsive."
+   },
+   "enabled_for_site": {
+      "description": "Popup balloon checkbox label",
+      "message": "Enabled for this site"
+   },
+   "filter_lists": {
+      "description": "This is a tab heading.",
+      "message": "Filter lists"
+   },
+   "filter_must_follow_syntax": {
+      "message": "Your filter must follow the \u003Ca href='http://adblockplus.org/en/filters'\u003EAdBlock Plus filter syntax\u003C/a\u003E. Certain filter types, like object-subrequest, are not supported."
+   },
+   "found_a_bug": {
+      "message": "Found a bug in AdThwart? Please \u003Ca href='http://code.google.com/p/adthwart/issues/entry'\u003Ereport it here\u003C/a\u003E."
+   },
+   "general": {
+      "description": "This is a tab heading.",
+      "message": "General"
+   },
+   "hovercraft": {
+      "description": "This is a sample translatable string. It happens to have comedic value.",
+      "message": "My hovercraft is full of eels."
+   },
+   "new_filters_added": {
+      "message": "New filters added; see \u003Ca id='options_url' target='_blank'\u003EOptions\u003C/a\u003E to manage them."
+   },
+   "options": {
+      "message": "AdThwart Options"
+   },
+   "out_of_date_lists": {
+      "message": "Out-of-date lists are updated periodically."
+   },
+   "remove_button": {
+      "description": "This is the label for the 'Remove selected' buttons.",
+      "message": "Remove selected"
+   },
+   "show_icon": {
+      "message": "Show icon in address bar"
+   },
+   "update_now": {
+      "message": "Update now"
+   },
+   "whitelisted_domains": {
+      "description": "This is a tab heading.",
+      "message": "Whitelisted domains"
+   }
+}

@@ -1,0 +1,113 @@
+{
+    "description": {
+        "message": "Блокировать рекламу с помощью фильтра, основанного на Firefox AdBlock Plus. Попрощайтесь с интернет-баннерами навсегда!"
+        },
+   "options": {
+       "message": "Настройки AdThwart"
+   },
+   "filter_lists": {
+       "message": "Список фильтров",
+       "description": "This is a tab heading."
+   },
+   "add_your_own_filters": {
+       "message": "Добавить свои фильтры"
+   },
+   "whitelisted_domains": {
+       "message": "Белый список доменов",
+       "description": "This is a tab heading."
+   },
+   "general": {
+       "message": "Общие",
+       "description": "This is a tab heading."
+   },
+
+   "add": {
+       "message": "Добавить",
+       "description": "This is the label for the 'Add' buttons."
+   },
+   "add_domain_button": {
+       "message": "Добавить домен"
+   },
+   "add_filter_button": {
+       "message": "Добавить фильтр"
+   },
+   "add_url_button": {
+       "message": "Добавить URL"
+   },
+   "remove_button": {
+       "message": "Удалить",
+       "description": "This is the label for the 'Remove selected' buttons."
+   },
+   "edit_filters_raw": {
+       "message": "Редактировать фильтры в текстовом режиме"
+   },
+   "apply_changes": {
+       "message": "Применить изменения"
+   },
+
+    "enable_only_the": {
+        "message": "Включите только фильтры, которые вам нужны. С большим количеством фильтров Chrome может тормозить."
+    },
+    
+    "out_of_date_lists": {
+        "message": "Устаревшие списки периодически обновляются."
+    },
+
+    "update_now": {
+        "message": "Обновить сейчас"
+    },
+
+    "add_a_filter_list": {
+        "message": "Подписка на <a href='http://adblockplus.org/en/subscriptions'>список фильтров</a> Firefox AdBlock Plus:"
+        },
+
+    "filter_must_follow_syntax": {
+            "message": "Ваш фильтр должен соответствовать <a href='http://adblockplus.org/en/filters'>синтаксису AdBlock Plus</a>. Фильтры некоторых типов, например, с подзапросом объекта, не поддерживаются."
+},
+
+    "disabled_for_these_domains": {
+        "message": "AdThwart выключен для этих доменов. Дополнительные домены можно добавить, щёлкнув иконку AdThwart на адресной строке или напечатав название домена (не ссылку) в данной области и нажав на кнопку \"Добавить домен\""
+    },
+
+    "found_a_bug": {
+        "message": "Нашли ошибку в AdThwart? Пожалуйста, <a href='http://code.google.com/p/adthwart/issues/entry'>сообщите об этом здесь</a>."
+   },
+
+
+   "show_icon": {
+       "message": "Показать иконку на адресной строке"
+   },
+   "disable_inline": {
+       "message": "Выключить текст рекламы"
+   },
+   "block_youtube": {
+       "message": "Блокировать рекламу в видео на YouTube"
+   },
+
+   "enabled_for_site": {
+       "message": "Включить для этого сайта",
+       "description": "Popup balloon checkbox label"
+   },
+   "easy_create_filter": {
+       "message": "Быстро создать фильтр",
+       "description": "Button label in popup balloon"
+   },
+   "cancel": {
+       "message": "Отменить",
+       "description": "Cancel button label"
+   },
+   "clickhide_instructions": {
+       "message": "После закрытия этого всплывающего окна щёлкните левой или правой кнопкой мыши элемент на странице."
+   },
+   "add_filters_msg": {
+       "message": "Добавить фильтр(ы)?"
+   },
+   "new_filters_added": {
+       "message": "Новый фильтр добавлен; перейдите в <a id='options_url' target='_blank'>Настройки</a> для редактирования."
+   },
+
+"hovercraft": {
+    "message": "Мое судно на воздушной подушке заполнено угрями.",
+    "description": "This is a sample translatable string. It happens to have comedic value."
+   }
+}
